@@ -32,4 +32,4 @@ To run this project, ensure that you have Node Package Manager (NPM) installed.
 
 ## Deployment
 
-The application is deployed and can be accessed here : [Todo App](https://mytodo-netlify.netlify.app).
+The application is deployed and can be accessed here : [Todo App]().
